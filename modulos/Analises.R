@@ -43,7 +43,7 @@ analise_ui <- function(id) {
   
   tabItem(
     tabName = 'analise',
-    h2(
+    h1(
       style='color: #1E2733; font-size: 25px;',
       align = 'center',
       'Exemplos de análises'
